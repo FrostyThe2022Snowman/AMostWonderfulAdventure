@@ -8,5 +8,5 @@ The Internet is always your best friend, and there are clues that may help you s
 
 
 
-*In programming languages, random number generation is seeded, so although the numbers appear random, you'll keep seeing the same numbers in the same order if you request random numbers from the same seed number. Maybe this randomness isn't so random after all :)))
+*In programming languages, random number generation is seeded, so although the numbers appear random, you'll keep seeing the same numbers in the same order if you request random numbers from the same seed number. *Maybe this randomness isn't so random after all :)))*
 
