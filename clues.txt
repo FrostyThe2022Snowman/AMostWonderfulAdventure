@@ -1,0 +1,9 @@
+The clues are little snippets of computing/cryptography history that may aid in solving the problems. The clues are in no particular order. 
+
+Clue the 0st: THe American Standard Code for Information Interchange was developed in 1960 for early computers and is still in use in programming languages today. 
+
+Clue the 1st: "Hypertext Markup Language (HTML) is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript."
+(courtesy of Wikipedia)
+
+Clue the 2nd: History has numerous examples of different ciphers being used for different purposes, including the Great Cipher in 17th century France, the Caesar Cipher used by Roman soldiers, and the Morse Code developed for communication through telegrams. 
+
