@@ -3,7 +3,7 @@ Welcome!
 
 If you are reading this, you have won a random* selection to take part in the great snowman adventure! 
 
-You can start by clicking the text file named "the_start" Have fun!
+You can start by clicking the text file named "the_start." Have fun!
 The Internet is always your best friend, and there are clues that may help you solve some of the *ciphers*. 
 
 As for who I am - well, that's of least importance for now. 
